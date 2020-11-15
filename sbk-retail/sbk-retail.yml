@@ -1,18 +1,4 @@
-integration:
- sbk: 
-  api:
-   token: dHBpX2ludGVybmFsX3NiOlBhc3N3b3JkMQ==
-   path:
-    menu: http://bc1hgt1-lsbka01.hqa.alea.ca:8086/sbk/api/sportsbook4/getMenus      
- rules:
-  api:
-   path:
-    casino-information: http://bc1hgt1-lkios01.hqa.alea.ca:8081/api/v1/engine/ca.firefly.common.casino/Information/1
- pos:
-  api:
-   path:
-    authenticate: http://bc1hgt1-lkios01.hqa.alea.ca:8080/api/authenticate    
-    
+  
     
 menu:
  icons:
