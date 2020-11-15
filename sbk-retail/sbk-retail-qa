@@ -1,0 +1,26 @@
+menu:
+ icons:
+  DEFAULT: mdi-football mdi-30px
+  HOME: mdi-home mdi-30px
+  NFL: mdi-football mdi-30px
+  NCAA-FOOTBALL: mdi-football-helmet mdi-30px
+  NHL: mdi-hockey-sticks mdi-30px
+  FIGHTING: mdi-mixed-martial-arts mdi-30px
+  SOCCER: mdi-soccer mdi-30px
+  TENNIS: mdi-tennis-ball mdi-30px
+  MLB: mdi-baseball mdi-30px
+  49ERS-VS-CHIEFS: mdi-football mdi-30px
+  2021-PRO-FOOTBALL-FUTURES: mdi-football mdi-30px
+  BOXING: mdi-boxing-glove mdi-30px
+  UFC: mdi-mixed-martial-arts mdi-30px
+  CFL: mdi-football mdi-30px
+  AUTO-RACING: mdi-car-sports mdi-30px
+  WNBA: mdi-basketball-hoop-outline mdi-30px
+  GOLF: mdi-golf mdi-30px
+  NBA: mdi-basketball mdi-30px
+  NCAA-BASKETBALL: mdi-basketball-hoop mdi-30px
+  NCAA-MENS-BASKETBALL: mdi-basketball-hoop mdi-30px
+  MENS-TENNIS: mdi-tennis-ball mdi-30px
+  WOMENS-TENNIS: mdi-tennis mdi-30px
+  In-Play-Betting: mdi-clock-fast mdi-30px
+  Parlay-Pages: mdi-format-list-checks mdi-30px
