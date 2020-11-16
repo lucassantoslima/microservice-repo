@@ -2,7 +2,7 @@
     
 menu:
  icons:
-  DEFAULT: mdi-football mdi-30px
+  DEFAULT: mdi-home mdi-30px
   HOME: mdi-home mdi-30px
   NFL: mdi-football mdi-30px
   NCAA-FOOTBALL: mdi-football-helmet mdi-30px
